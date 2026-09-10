@@ -1,0 +1,8 @@
+{
+  "name": "Remix AI 食品加工_單元操作_混合",
+  "description": "基於食品加工工程與流體力學的數位孿生攪拌捏揉乳化模擬器，提供結構化 JSON 輸出與雙迴圈反思教學引導。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
